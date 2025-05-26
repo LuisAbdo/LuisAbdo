@@ -1,15 +1,29 @@
-## Hi there 👋
-![snake gif](https://github.com/LuisAbdo/LuisAbdo/blob/output/github-contribution-grid-snake.gif)
-<!--
-**LuisAbdo/LuisAbdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+# 👋 Hi there! I'm Luis Abdo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a tech enthusiast currently studying **Multiplatform Software Development (DSM)**. I have knowledge of **HTML** and **CSS**, and I'm always eager to learn more and grow as a developer.
+
+## 🛠️ Technologies I work with
+
+- HTML5  
+- CSS3
+
+## 📚 Currently learning
+
+- JavaScript  
+- Responsive design  
+- Git & GitHub (version control)
+
+## 🌐 Connect with me
+
+Feel free to reach out or follow me on social media:
+
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- [Instagram](https://www.instagram.com/seu-usuario)
+
+## ✨ About me
+
+I enjoy building clean and structured web pages, focusing on design and usability. I'm open to new opportunities, collaborations, and challenges that help me grow and contribute.
+
+---
+
+🚀 Always learning, always building!
