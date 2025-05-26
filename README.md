@@ -1,29 +1,15 @@
-# 👋 Hi there! I'm Luis Abdo
+# 💫 About Me:
+🔭 I’m currently working on building responsive websites.  <br>👯 I’m looking to collaborate on beginner-friendly web projects.  <br>🤝 I’m looking for help with JavaScript basics.  <br>🌱 I’m currently learning JavaScript and Git.  <br>💬 Ask me about HTML and CSS.  <br>⚡ Fun fact: I love turning designs into real web pages!<br>
 
-I'm a tech enthusiast currently studying **Multiplatform Software Development (DSM)**. I have knowledge of **HTML** and **CSS**, and I'm always eager to learn more and grow as a developer.
 
-## 💻 Technologies I work with
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdo.luiss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LuisAbdo) 
 
-- 🟧 HTML5  
-- 🎨 CSS3
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LuisAbdo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LuisAbdo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAbdo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📚 Currently learning
-
-- ⚡ JavaScript  
-- 📱 Responsive design  
-- 🔧 Git & GitHub (version control)
-
-## 🔗 Connect with me
-
-Feel free to reach out or follow me on social media:
-
-[![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/seu-usuario)  
-[![Instagram](https://cdn-icons-png.flaticon.com/24/2111/2111463.png)](https://www.instagram.com/seu-usuario)
-
-## ✨ About me
-
-I enjoy building clean and structured web pages, focusing on design and usability. I'm open to new opportunities, collaborations, and challenges that help me grow and contribute.
-
----
-
-🚀 Always learning, always building!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
