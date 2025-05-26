@@ -3,7 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuisAbdo/LuisAbdo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/LuisAbdo/LuisAbdo/output/github-snake.svg" />
 </picture><br>
-<hr>
 
 <h2 align="center">About Me:</h2>
 🔭 I’m currently working on building responsive websites. 🌱 I’m currently learning JavaScript. <br>
